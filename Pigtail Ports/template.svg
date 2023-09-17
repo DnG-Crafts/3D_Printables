@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190.000mm" height="100.000mm" viewBox="6.000000 -831.500000 190.000000 100.000000">
+    <circle transform="matrix(1,0,0,-1,41,-801.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,41,-801.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="17.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,81,-801.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,81,-801.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="17.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,121,-801.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,121,-801.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="17.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,161,-801.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,161,-801.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="17.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,41,-761.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,41,-761.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="17.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,81,-761.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,81,-761.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="17.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,121,-761.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,121,-761.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="17.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,161,-761.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,161,-761.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="17.5" cx="0" cy="0"/>
+    <rect transform="matrix(1,0,0,-1,101,-781.5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" x="-95" y="-50" width="190" height="100"/>
+</svg>
