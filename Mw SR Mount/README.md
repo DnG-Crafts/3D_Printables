@@ -1,4 +1,4 @@
-# mw board mount
+# Mw SR Mount
 
 stl files to print a board mount for a meanwell lrs350
 
