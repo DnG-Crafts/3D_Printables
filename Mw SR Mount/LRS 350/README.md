@@ -10,3 +10,5 @@ supported boards
 
 
 <img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/LRS%20350/image.jpg><br>
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/LRS%20350/image1.jpg><br>
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/LRS%20350/image2.jpg><br>
