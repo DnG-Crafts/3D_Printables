@@ -1,4 +1,4 @@
-# Mw LRS To LRS
+# LRS To LRS
 
 stl files to print brackets to join 2 lrs350 power supplies together.
 

@@ -1,4 +1,4 @@
-# Mw LRS To RSP
+# LRS To RSP
 
 stl files to print brackets to join a lrs350 to a rsp500 power supply.
 
