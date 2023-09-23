@@ -5,5 +5,5 @@ stl files to print clips to identify pigtails with a cable thickness of 5.8mm or
 
 
 
-<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/image.jpg>
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Cable%20ID%20Clips/image.jpg>
 
