@@ -6,6 +6,7 @@ stl files to print board mounts and joining brackets for meanwell power supplies
 
 <a href=https://www.meanwellaustralia.com.au/products/lrs-350>LRS-350</a><br>
 <a href=https://www.meanwellaustralia.com.au/products/rsp-500>RSP-500</a><br>
+<a href=https://www.meanwellaustralia.com.au/products/lrs-600>LRS-600</a><br>
 
 ## Supported boards
 
