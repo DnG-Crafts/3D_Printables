@@ -44,7 +44,14 @@ stl files to print board mounts and joining brackets for meanwell power supplies
 <img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/RSP%20500/image6.jpg><br>
 
 
+## LRS600 SR Mount
 
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/LRS%20600/image1.jpg><br>
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/LRS%20600/image2.jpg><br>
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/LRS%20600/image3.jpg><br>
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/LRS%20600/image4.jpg><br>
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/LRS%20600/image5.jpg><br>
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Mw%20SR%20Mount/LRS%20600/image6.jpg><br>
 
 
 
