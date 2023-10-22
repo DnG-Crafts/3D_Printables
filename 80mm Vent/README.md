@@ -1,7 +1,8 @@
 # 80mm Vent
 
-stl files to print a Vent for electronics boxes with 80mm fan mount and TPU seal
-fan mount uses m4 screws
+stl files to print a Vent for electronics boxes with 80mm fan mount and TPU seal.
+
+fan mount uses m4 screws.
 
 
 
