@@ -1,6 +1,7 @@
 # 60mm Vent
 
-stl files to print a Vent for electronics boxes with 60mm fan mount and TPU seal
+stl files to print a Vent for electronics boxes with 60mm fan mount and TPU seal.
+fan mount uses m4 screws.
 
 
 
