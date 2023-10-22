@@ -11,5 +11,6 @@ fan mount uses m4 screws.
 <img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/60mm%20Vent/image1.jpg><br>
 <img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/60mm%20Vent/image2.jpg><br>
 <img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/60mm%20Vent/image3.jpg><br>
+<img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/60mm%20Vent/image4.jpg><br>
 
 
