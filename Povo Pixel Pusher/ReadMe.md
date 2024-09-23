@@ -1,6 +1,6 @@
 # Povo Pixel Pusher
 
-stl files to print ports/plugs to hold ray-wu pigtails for a more flush finish on the control box
+stl files to print a povo pixel pusher
 
 <img src=https://github.com/DnG-Crafts/3D_Printables/blob/main/Povo%20Pixel%20Pusher/image.jpg><br>
 
